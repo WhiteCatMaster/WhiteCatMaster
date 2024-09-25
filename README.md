@@ -1,4 +1,4 @@
-![github-readme-profile](https://pbs.twimg.com/profile_banners/1715459006842462212/1697846632/1500x500)
+![github-readme-profile](https://github.com/user-attachments/assets/18cbef0f-26d6-4561-ae69-b5a0e8426498)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/WhiteCatMaster">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/WhiteCat1871925">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FWhiteCat1871925">
@@ -6,8 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-
-![imagen](https://github.com/user-attachments/assets/18cbef0f-26d6-4561-ae69-b5a0e8426498)
 
 
 
