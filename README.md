@@ -1,4 +1,3 @@
-![github-readme-profile](https://github.com/user-attachments/assets/18cbef0f-26d6-4561-ae69-b5a0e8426498)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/WhiteCatMaster">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/WhiteCat1871925">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FWhiteCat1871925">
