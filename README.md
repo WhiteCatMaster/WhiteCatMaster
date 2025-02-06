@@ -1,9 +1,10 @@
+<img src="https://static.wikia.nocookie.net/adventuretimesuperfans/images/b/b0/Images-795.jpg/revision/latest/scale-to-width-down/250?cb=20121108054537"> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/WhiteCatMaster">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/WhiteCat1871925">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FWhiteCat1871925">
 
 
-<img src="https://preview.redd.it/e4dsq0c269q91.png?auto=webp&s=ffc262c4f2f49db48ba039e4f3241cbeec49e472"> 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
@@ -27,3 +28,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
 </p>
+
