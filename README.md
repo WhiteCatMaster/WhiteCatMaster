@@ -21,7 +21,7 @@
 
  <b> techs I use:
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code> 
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> 
 <br />
 
 
